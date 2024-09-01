@@ -37,3 +37,31 @@ MISTS_URL|Guild's profile page on gw2mists.
 DISCORD_POST_ALLIANCE|Direct link to message introducing the Alliance on the Alliance Discord. See invitation links for [EU](https://discord.gg/QPHHe8GZrD) and [NA](https://discord.gg/26k9WRZsua).
 DISCORD_POST_RECRUITMENT|Direct link to message introducing the Guild on the Alliance Discord.
 .|A personal preference to end a table.
+
+## FAQ
+
+### Why should I use this instead of gw2mists?
+
+Every guild that joins WvW will get assigned a team by ArenaNet,
+If you joined an alliance, then you will join the team of that **selected** guild,
+and the guild you **represent** will also get a team assigned, which might be a different one.
+
+### But people just need to fix their gw2mists profile/alliance override
+
+And that's where the data gets really messy, because some will, others won't.
+There are many players that did not register to gw2mists.
+
+### What about gw2skirmish/claims?
+
+Claims are limited in number, 
+and a solo roamer can claim on any team and gather points,
+while the main squad will just fight and avoid claiming.
+
+### But it's ugly
+
+Yeah. It also contains a lot of manual inputs subject to human error (Excel auto-correct...)
+With people avoiding gw2mists, claims, and ArenaNet's api giving basic info,
+with alliances changing every now and then, without updating status on discord or gw2mists,
+it's really hard to keep up with news.
+But with a mix of manual work and automation to check the validity of data, 
+I can try to have it displayed nicely in the future.
